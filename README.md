@@ -11,12 +11,13 @@ A Streamlit-based chatbot powered by Groq's API, allowing users to interact with
 - **API Key Management**: Securely load the Groq API key from a `.env` file with an optional input field.  
 
 ##  Getting Started  
+
 1. Clone the repository:  
    ```sh
    git clone https://github.com/your-username/bubble-chatbot.git
    cd bubble-chatbot
       ```
- 2. Clone the repository:  
+ 2. Install dependencies::  
    ```sh
    pip install -r requirements.txt
  ```
@@ -31,7 +32,7 @@ streamlit run app.py
 ## 📷 Preview  
 Click the image below to see a live demo of Bubble Chatbot in action!  
 
-[![Bubble Chatbot Preview](chat)
+[![Bubble Chatbot Preview](chat.png)
 
 
 ## 🛠️ Technologies Used  
