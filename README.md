@@ -2,8 +2,7 @@
 
 A Streamlit-based chatbot powered by Groq's API, allowing users to interact with AI models like **Llama 3, Mixtral, and Gemma**. The chatbot features customizable personalities, moods, and response settings for a dynamic and engaging conversation experience.  
 ## 📷 Preview  
-
-[![Bubble Chatbot Preview](chat.png)
+![Bubble Chatbot Preview](chat.png)
 
 ## ✨ Features  
 - **Multi-Model Support**: Choose from various AI models, including Llama 3 (8B & 70B), Mixtral, and Gemma.  
