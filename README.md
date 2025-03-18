@@ -31,18 +31,15 @@ streamlit run app.py
 ## 📷 Preview  
 Click the image below to see a live demo of Bubble Chatbot in action!  
 
-[![Bubble Chatbot Preview](https://via.placeholder.com/800x400?text=Bubble+Chatbot+Preview)](https://your-live-demo-link.com)
+[![Bubble Chatbot Preview](chat)
 
-> If the image doesn’t load, click [here](https://your-live-demo-link.com) for the demo.
 
 ## 🛠️ Technologies Used  
-<details>
-  <summary>Click to expand</summary>
+
 
   - **Python** 🐍  
   - **Streamlit** 🎈  
   - **Groq API** 🤖  
   - **dotenv** 🔐  
 
-</details>
 
