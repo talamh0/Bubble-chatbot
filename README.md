@@ -1,6 +1,9 @@
 # 🫧 Bubble Chatbot  
 
 A Streamlit-based chatbot powered by Groq's API, allowing users to interact with AI models like **Llama 3, Mixtral, and Gemma**. The chatbot features customizable personalities, moods, and response settings for a dynamic and engaging conversation experience.  
+## 📷 Preview  
+
+[![Bubble Chatbot Preview](chat.png)
 
 ## ✨ Features  
 - **Multi-Model Support**: Choose from various AI models, including Llama 3 (8B & 70B), Mixtral, and Gemma.  
@@ -12,28 +15,24 @@ A Streamlit-based chatbot powered by Groq's API, allowing users to interact with
 
 ##  Getting Started  
 
-1. Clone the repository:  
+  1. Clone the repository:  
    ```sh
    git clone https://github.com/your-username/bubble-chatbot.git
    cd bubble-chatbot
-      ```
- 2. Install dependencies::  
+   ```
+   2. Install dependencies::  
    ```sh
    pip install -r requirements.txt
- ```
- 3. Set up environment variables:  
-   ```sh
-  GROQ_API_KEY=your_api_key_here
    ```
-4.Run the chatbot:
+
+   3. Set up environment variables:  
+   ```sh
+   GROQ_API_KEY=your_api_key_here
+  ```
+  4.Run the chatbot:
   ```sh
-streamlit run app.py
+  streamlit run app.py
    ```    
-## 📷 Preview  
-Click the image below to see a live demo of Bubble Chatbot in action!  
-
-[![Bubble Chatbot Preview](chat.png)
-
 
 ## 🛠️ Technologies Used  
 
