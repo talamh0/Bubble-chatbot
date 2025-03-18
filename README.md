@@ -35,10 +35,11 @@ A Streamlit-based chatbot powered by Groq's API, allowing users to interact with
 
 ## 🛠️ Technologies Used  
 
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+- ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
+- ![Groq API](https://img.shields.io/badge/Groq%20API-000000?style=for-the-badge&logo=openai&logoColor=white)  
+- ![dotenv](https://img.shields.io/badge/Dotenv-009900?style=for-the-badge&logo=.env&logoColor=white)  
+- ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
 
-  - **Python** 🐍  
-  - **Streamlit** 🎈  
-  - **Groq API** 🤖  
-  - **dotenv** 🔐  
-
+---
 
